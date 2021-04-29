@@ -11,7 +11,7 @@ namespace ReflectionApp
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to reflection Demo");
-            ReflectionOnCustomer.ReflectionTest();
+            ReflectionOnCustomerInfo.ReflectionTest();
             Console.ReadKey();
         }
     }

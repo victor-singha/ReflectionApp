@@ -7,7 +7,7 @@ using System.Reflection;
 
 namespace ReflectionApp
 {
-    class ReflectionOnCustomer
+    class ReflectionOnCustomerInfo
     {
         public static void ReflectionTest()
         {
